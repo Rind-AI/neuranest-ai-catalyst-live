@@ -1,0 +1,15 @@
+{
+  "short_name": "NeuraNest Catalyst",
+  "name": "NeuraNest AI Catalyst",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM2N2U4ZjkiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM2N2U4ZjkiIHN0b3Atb3BhY2l0eT0iMCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGZpbGw9IiMxNzE3MTciIGQ9Ik0wIDBoMTAwdjEwMGgwethoxyIj48cGF0aCBmaWxsPSIjY2NmNWZmIiBkPSJNNTAgMTBMMjAgOTBIODB6Ii8+PHBhdGggZmlsbD0idXJsKCNnKSIgZD0iTTUwIDEwTDIwIDkwSDgwekoiLz48L3N2Zz4=",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e1b4b",
+  "background_color": "#0c0a1e"
+}
